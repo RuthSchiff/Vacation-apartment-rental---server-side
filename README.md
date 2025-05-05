@@ -65,8 +65,7 @@ The application will be running on `http://localhost:3002`.
 - `GET /apartments/getByPriceBg/:price` - Get apartments with price greater than
 - `GET /apartments/getByAdvertiser/:id` - Get apartments by advertiser
 
-## License
-This project is licensed under the MIT License.
+
 
 ---
 
@@ -137,5 +136,4 @@ npm start
 - `GET /apartments/getByPriceBg/:price` - קבל דירות עם מחיר יותר מ
 - `GET /apartments/getByAdvertiser/:id` - קבל דירות לפי מפרסם
 
-## רישיון
-פרויקט זה מורשה תחת רישיון MIT.
+
